@@ -1,6 +1,3 @@
-/*
-    在乘积相等时，和最小的情况是几个数尽量接近，两个数之间差值最多为1.枚举t和t+1的个数即可
-*/
 #include "bits/stdc++.h"
 using namespace std;
 typedef long long LL;
