@@ -1,0 +1,3 @@
+[submodule "rust-algorithms"]
+	path = rust-algorithms
+	url = https://github.com/BuckWang0509/rust-algorithms.git
